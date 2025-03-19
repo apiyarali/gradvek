@@ -8,7 +8,8 @@ GradVek (GRaph of ADVerse Event Knowledge) is a project aimed at providing an in
 * [Makefile commands](#makefile-commands)  
 * [Errors](#errors)  
 * [Design of System](#design-of-system)
-* [Screenshots](#screenshots)  
+* [Screenshots](#screenshots)
+* [Technical Paper](#Technical Paper) 
 
 
 
