@@ -9,7 +9,7 @@ GradVek (GRaph of ADVerse Event Knowledge) is a project aimed at providing an in
 * [Errors](#errors)  
 * [Design of System](#design-of-system)
 * [Screenshots](#screenshots)
-* [Technical Paper](#Technical Paper) 
+* [Technical Paper]([./Gradvek Presentation.pdf](https://github.com/apiyarali/gradvek/blob/9b246a3d98337cedb3f495db6db715be372339b1/Gradvek%20Presentation.pdf))
 
 
 
